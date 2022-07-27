@@ -1,0 +1,11 @@
+a, a:visited, a:link, a:active {
+    text-decoration: none;
+    color: inherit;
+    transition: all 0.2s ease-in-out;
+}
+
+a:hover {
+    text-decoration: none;
+    opacity: 0.5;
+    color: inherit;
+}
